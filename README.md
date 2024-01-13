@@ -15,7 +15,9 @@ This project is an interactive showcase demonstrating shape collision and animat
 
 ## Prerequisites
 
-- Web browser with HTML5 and CSS3 support
+- Java Runtime Environment (JRE) installed
+- Compatible operating system (e.g., Windows, macOS, Linux)
+
 
 ## Getting Started
 
