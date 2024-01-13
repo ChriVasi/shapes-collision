@@ -17,6 +17,8 @@ This project is an interactive showcase demonstrating shape collision and animat
 
 - Java Runtime Environment (JRE) installed
 - Compatible operating system (e.g., Windows, macOS, Linux)
+- Android Studio installed
+-Emulator or physical Android device for testing
 
 
 ## Getting Started
